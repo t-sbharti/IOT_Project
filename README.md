@@ -22,6 +22,8 @@ Relay Module
 
 Breadboard
 
+Jumper Wires
+
 
 
 ![22](https://github.com/user-attachments/assets/1f419cc5-d18b-4274-9e42-dbe3d07cf21c)
@@ -30,4 +32,10 @@ Breadboard
 
 
 
-Jumper Wires
+
+
+
+
+
+
+
