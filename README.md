@@ -9,10 +9,17 @@ The system is designed to automatically irrigate plants, helping to maintain pro
 It minimizes the need for human effort by using automation to handle plant care over extended periods
 
 Components Used:
+
 Arduino Uno
+
 Soil Moisture Sensor
+
 Servo Motor
+
 Mini Water Pump
+
 Relay Module
+
 Breadboard
+
 Jumper Wires
